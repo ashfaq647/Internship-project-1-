@@ -64,10 +64,3 @@ The project includes:
 - Average scores comparison across subjects  
 - Effect of test preparation on reading score  
 
----
-
-## 🚀 How to Run This Project
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/your-username/student-performance-analysis.git
